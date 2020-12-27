@@ -1,5 +1,5 @@
 {
-  "name": "XPTNNBOT",
+  "name": "UWBCBOT",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "XPTN",
+  "author": "UWBC",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
