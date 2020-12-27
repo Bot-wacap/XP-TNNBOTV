@@ -187,7 +187,7 @@ async function starts() {
 				case 'info':
 					me = client.user
 					uptime = process.uptime()
-					teks = `*Nama bot* : ${me.name}\n*Anuther* : *XPTN*\n*FRENDS* : ALFA GANS\n*Nomor Bot* : @${me.jid.split('@')[0]}\n*Prefix* : ${prefix}\n*Total Block Contact* : ${blocked.length}\n*The bot is active on* : ${kyun(uptime)}`
+					teks = `*Nama bot* : ${me.name}\n*Anuther* : *UW-BC*\n*FRENDS* : UW-BC GANS\n*Nomor Bot* : @${me.jid.split('@')[0]}\n*Prefix* : ${prefix}\n*Total Block Contact* : ${blocked.length}\n*The bot is active on* : ${kyun(uptime)}`
 					buffer = await getBuffer(me.imgUrl)
 					client.sendMessage(from, buffer, image, {caption: teks, contextInfo:{mentionedJid: [me.jid]}})
 					break
@@ -317,7 +317,7 @@ async function starts() {
 					break
 			case 'creator':
                  client.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
-                 client.sendMessage(from, 'itu pacar ku eh owner ku ><',MessageType.text, { quoted: mek} )
+                 client.sendMessage(from, 'Jangan lupa SV yaa ><',MessageType.text, { quoted: mek} )
                  break
                  case 'fitnah':	
 				case 'fake':          
