@@ -16,8 +16,8 @@ const help = (prefix) => {
 ┃
 ┣➥ *${prefix}donasi*
 ┣➥ *${prefix}Thanks To #Alfa📣*
-┣➥ *${prefix}Support Bot XPTN*
-┣➥ *${prefix}Web Api : xptnbotapi.herokuapp.com*
+┣➥ *${prefix}Support Bot UWBC*
+┣➥ *${prefix}Web Api : uwiwbocah.herokuapp.com*
 ┃
 ┣━━━°❀ ❬ UPDATE COMMAND ❭ ❀°━━━⊱
 ┃
@@ -96,7 +96,7 @@ const help = (prefix) => {
 ┣➥ *${prefix}url2img*
 ┃
 ┣━━━━━━━━━━━━━━━━━━━━
-┃ ${prefix}*Follow IG* ~_xptn~
+┃ ${prefix}*Follow IG* ~_uwbc~
 ┗━━━━━━━━━━━━━━━━━━━━`
 }
 exports.help = help
